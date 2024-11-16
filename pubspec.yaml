@@ -1,0 +1,13 @@
+name: translation_key_generator
+description: A package to generate Dart translation keys from JSON files.
+version: 0.0.1
+
+environment:
+  sdk: ^3.5.4
+
+dependencies:
+  build: ^2.4.1
+  path: ^1.9.1
+
+dev_dependencies:
+  flutter_lints: ^4.0.0
